@@ -1,7 +1,7 @@
 <h1>Azure SIEM Live Attack</h1>
 
 <h2>Description</h2>
-Create an advanced cybersecurity monitoring solution leveraging Azure Sentinel (SIEM) integrated with a strategically deployed honeypot VM. This setup is specifically designed to track and analyze RDP brute force attacks on a global scale. The project features a bespoke PowerShell script, crafted for real-time geolocation tracking of attackers. It showcases an innovative use of Azure Sentinel's mapping capabilities, enabling advanced visualization and threat analysis. This project demonstrates a practical application of SIEM tools in identifying and visualizing cyber threats in a dynamic, real-world context.
+Create an advanced cybersecurity monitoring solution using Azure Sentinel (SIEM) integrated with a honeypot VM. This setup is specifically designed to track and analyze RDP brute force attacks on a global scale. The project features a custom PowerShell script, crafted for real-time geolocation tracking of attackers. It showcases an innovative use of Azure Sentinel's mapping capabilities, enabling advanced visualization and threat analysis. This project demonstrates a practical application of SIEM tools in identifying and visualizing cyber threats in a dynamic, real-world context.
 <br />
 
 
