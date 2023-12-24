@@ -21,25 +21,29 @@ Create an advanced cybersecurity monitoring solution leveraging Azure Sentinel (
 
 <p align="center">
 Create a virtual machine (VM): <br/>
-<img src="https://imgur.com/jErEKir.png" height="100%" width="100%" alt="Azure SIEM Live Attack Steps"/>
+<img src="https://imgur.com/jErEKir.png" height="80%" width="80%" alt="Azure SIEM Live Attack Steps"/>
 <br />
 <br />
 <b>Create a new inbound network security rule to allow all traffic:<b/>
   <br/>
-  <img src="https://i.imgur.com/R6BgOYp.png" alt= Azure SIEM Live Attack Steps />
+  <img src="https://i.imgur.com/qer2KAS.png" height="80%" width="80%" alt="Azure SIEM Live Attack Steps" />
   <br/>
   <br/>
-  <img src="https://i.imgur.com/2OX6ZN6.png" title="source: imgur.com" />
+  <img src="https://i.imgur.com/2OX6ZN6.png" height="80%" width="80%" alt="Azure SIEM Live Attack Steps" />
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/xtPncQW.png" height="80%" width="80%" alt="Azure SIEM Live Attack Steps" />
+  <br />
+  <br />
+Create a log analytics workspace: <br/>
+<img src="https://i.imgur.com/WbbG2q3.png" height="80%" width="80%" alt="Azure SIEM Live Attack Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enable gathering logs in MS defender for cloud:  <br/>
+<img src="https://i.imgur.com/ypjCVRX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+<img src="https://i.imgur.com/ypjCVRX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
