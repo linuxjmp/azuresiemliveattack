@@ -39,21 +39,34 @@ Create a log analytics workspace: <br/>
 <img src="https://i.imgur.com/WbbG2q3.png" height="80%" width="80%" alt="Azure SIEM Live Attack Steps"/>
 <br />
 <br />
-Enable gathering logs in MS defender for cloud:  <br/>
-<img src="https://i.imgur.com/ypjCVRX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enable gathering logs in MS Defender for cloud:  <br/>
+<img src="https://i.imgur.com/ypjCVRX.png" height="80%" width="80%" alt="Azure SIEM Live Attack Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/ypjCVRX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ypjCVRX.png" height="80%" width="80%" alt="Azure SIEM Live Attack Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZgctLvu.png" height="80%" width="80%" alt="Azure SIEM Live Attack Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/F5x0NLs.png" height="80%" width="80%" alt="Azure SIEM Live Attack Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/PSwG9bS.png" height="80%" width="80%" alt="Azure SIEM Live Attack Steps"/>
+<br />
+<br /> 
+<img src="https://i.imgur.com/OdI2iw4.png" height="80%" width="80%" alt="Azure SIEM Live Attack Steps"/>
+<br />
+<br />
+Setup Azure Sentinel: <br />
+<img src="https://i.imgur.com/pfrqWpX.png" height="80%" width="80%" alt="Azure SIEM Live Attack Steps"/>
+<br /> 
+<br /> 
+<img src="https://i.imgur.com/v4Rg886.png" height="80%" width="80%" alt="Azure SIEM Live Attack Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Azure SIEM Live Attack Steps"/>
 </p>
 
 <!--
